@@ -3,7 +3,7 @@ body {
 }
 .logo {
     display: inline-block;
-    vertical-align:middle;
+    vertical-align:top;
     height: 96px;
     width:auto;
     padding: 18px;
@@ -37,6 +37,7 @@ body {
     display:inline-block;
     background: #0d328f;
     color: white;
+    text-align: center;
     list-style: none;
     line-height: 25px;
     margin-right: 12px;
