@@ -1,10 +1,11 @@
 body {
-    background-color: rgb(81, 21, 31);
+    background-color: rgb(225, 228, 186);
 }
 .logo {
     display: inline-block;
     vertical-align:middle;
-    height: 128px;
+    height: 96px;
+    width:auto;
     padding: 18px;
 }
 .title {
@@ -22,6 +23,10 @@ body {
     font-family: 'Calibri';
     font-size: 36px;
     font-weight: bold;
+}
+.list {
+    text-align: center;
+    background-color: #0d328f;
 }
 .list li{
     list-style: none;
