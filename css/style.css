@@ -1,3 +1,6 @@
+body {
+    background-color: rgb(81, 21, 31);
+}
 .logo {
     display: inline-block;
     vertical-align:middle;
