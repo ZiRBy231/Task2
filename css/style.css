@@ -4,9 +4,8 @@ body {
 .logo {
     display: inline-block;
     vertical-align: top;
-    top: 0;
-    width: 100%;
-    height: 150px;
+    width: auto;
+    height: 120px;
 }
 .title {
     display:inline-block;
@@ -17,6 +16,7 @@ body {
 }
 .titleText {
     display: inline-block;
+    vertical-align: center;
     width: 900px;
     margin-bottom: 36px;
     margin-left: 48px;
