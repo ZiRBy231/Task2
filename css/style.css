@@ -4,7 +4,7 @@ body {
 
 .logo {
     display: inline-block;
-    vertical-align:middle;
+    vertical-align: top;
     width: 700px;
     height: 120px;
 }
