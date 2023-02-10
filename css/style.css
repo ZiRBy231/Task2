@@ -43,7 +43,7 @@ body {
     margin-right: 12px;
     font-family: 'Calibri';
     font-weight: bold;
-    font-size: 24px;
+    font-size: 28px;
     width: 135px;
     text-decoration: none;
     border: 12px solid transparent;
@@ -51,11 +51,13 @@ body {
 .left{
     display: inline-block;
     width: 20%;
+    font-size: 16px;
 }
 .right{
     vertical-align: top;
     display: inline-block;
     width: calc(80% - 4px);
+    font-size: 16px;
 }
 footer {
     text-align: center;
