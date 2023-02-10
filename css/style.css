@@ -1,12 +1,14 @@
 body {
     background-color: rgb(225, 228, 186);
 }
+
 .logo {
     display: inline-block;
-    vertical-align: top;
-    width: 350px;
-    height: 50px;
+    vertical-align:middle;
+    width: 700px;
+    height: 120px;
 }
+
 .title {
     display:inline-block;
     vertical-align: center;
@@ -14,6 +16,7 @@ body {
     font-size: 64px;
     font-weight: bolder;
 }
+
 .titleText {
     display: inline-block;
     vertical-align: center;
@@ -24,6 +27,7 @@ body {
     font-size: 36px;
     font-weight: bold;
 }
+
 .list {
     text-align: center;
     background-color: #0d328f;
@@ -33,6 +37,7 @@ body {
     display:inline-block;
     text-align:center;
 }
+
 .list li a {
     display:inline-block;
     background: #0d328f;
@@ -48,17 +53,20 @@ body {
     text-decoration: none;
     border: 12px solid transparent;
 }
+
 .left{
     display: inline-block;
     width: 20%;
     font-size: 16px;
 }
+
 .right{
     vertical-align: top;
     display: inline-block;
     width: calc(80% - 4px);
     font-size: 16px;
 }
+
 footer {
     text-align: center;
     background: #4995b0;
